@@ -26,16 +26,17 @@ g++ -O3 graph.cpp HI.cpp main.cpp -o hl -std=c++17
 * The hypergraph reading procedures is implemented in graph.cpp
 
 ### Run/Test
-To execute our Algorithm with hypergraph input file called __test.txt__, such test.txt should under /data/
-After that, in <strong>run.sh</strong>, add
+To execute our Algorithm with hypergraph input file called __test.txt__, such test.txt should under src/data/
+After that, in <strong>src/run.sh</strong>, add
 ```
 ./hl data/test.txt D query.txt output1.txt 1 5
 ```
 and run the code 
 ```
+cd src
 ./run.sh
 ```
 
-The result of query time will be reported under /test_result/test/*.txt
+The result of query time will be reported under __src/test_result/test/*.txt__
 
 
