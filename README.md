@@ -1,6 +1,6 @@
 # HL-index
 ---
-This project implements the HL-index construction algorithms and its corresponding VTE-reach to answer the max/threshold-reachability problem in hypergraphs for the following paper:
+This project implements the HL-index construction algorithms and its corresponding VTE-reach to answer the max/s-reachability problem in hypergraphs for the following paper:
 * Peiting Xie, Xiangjun Zai, Yanping Wu, Xiaoyang Wang, Wenjie Zhang, Lu Qin, "Efficient Reachability Query in Hypergraphs", 2025.
 
 ### Dataset
