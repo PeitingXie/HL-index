@@ -6,7 +6,7 @@ This project implements the HL-index construction algorithms and its correspondi
 ### Dataset
 ---
 All the datasets in this paper can be downloaded in [__cornell__](https://www.cs.cornell.edu/~arb/data/).
-We provide one sample test data folder here.
+We provide one sample test data folder in /data .
 
 ### Compile
 ---
