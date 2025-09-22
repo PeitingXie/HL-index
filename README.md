@@ -1,11 +1,11 @@
 # HL-index
 ---
 This project implements the HL-index construction algorithms and its corresponding VTE-reach to answer the max/s-reachability problem in hypergraphs for the following paper:
-* Peiting Xie, Xiangjun Zai, Yanping Wu, Xiaoyang Wang, Wenjie Zhang, Lu Qin, "Efficient Reachability Query in Hypergraphs", 2025.
+* Peiting Xie, Xiangjun Zai, Yanping Wu, Xiaoyang Wang, Wenjie Zhang, Lu Qin, "HL-index: Fast Reachability Query in Hypergraphs ", 2025.
 
 ### Dataset
 ---
-All the datasets in this paper can be downloaded in [__cornell__](https://www.cs.cornell.edu/~arb/data/).
+All the datasets in this paper can be downloaded in [__cornell__](https://www.cs.cornell.edu/~arb/data/), [__konect__](http://konect.cc/networks/), and [__SNAP__](https://snap.stanford.edu/data/).
 We provide one sample test data folder in /data .
 
 ### Compile
@@ -39,5 +39,6 @@ cd src
 ```
 
 The result of query time will be reported under __src/test_result/test/*.txt__
+
 
 
